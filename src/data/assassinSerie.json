@@ -1,0 +1,41 @@
+{
+  "series": {
+    "seriesName": "assassinSeries",
+    "baseClass": {
+      "name": "Thief",
+      "skills": [
+        {
+          "name": "Strong Blade Attack",
+          "type": "active",
+          "range": "1.5m",
+          "levels": {
+            "max": 10,
+            "bmax": 20,
+            "base": [
+              { "level": 1, "description": "lala" },
+              { "level": 2, "description": "lala" },
+              { "level": 3, "description": "lala" }
+            ]
+          }
+        },
+        {
+          "name": "Strong Blade Attack",
+          "type": "active",
+          "range": "1.5m",
+          "levels": {
+            "max": 10,
+            "bmax": 20,
+            "base": [
+              { "level": 1, "description": "lala" },
+              { "level": 2, "description": "lala" },
+              { "level": 3, "description": "lala" }
+            ]
+          }
+        }
+      ]
+    },
+    "firstClass": { "name": "Assassin" },
+    "secondClass": { "name": "Assassin Cross" },
+    "thirdClass": { "name": "Guillotine Cross" }
+  }
+}
